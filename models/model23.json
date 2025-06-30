@@ -1,0 +1,37 @@
+{
+  "title": "model23",
+  "x-stoplight": {
+    "id": "uu73t56inp3p5"
+  },
+  "type": "object",
+  "description": "model23",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "mmdqw39l9b0is"
+      }
+    },
+    "testy12": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "e0u660oxwlvfe"
+      }
+    },
+    "tyu": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "7aektil0c4sfl"
+      }
+    },
+    "refer": {
+      "$ref": "./model12.yaml",
+      "x-stoplight": {
+        "id": "j98smjxuu0qb9"
+      }
+    }
+  },
+  "x-tags": [
+    "tags"
+  ]
+}

@@ -1,0 +1,20 @@
+title: model12
+x-stoplight:
+  id: s2deuks2mt0aq
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: ld6bnzrf57c12
+  test1:
+    type: string
+    x-stoplight:
+      id: 8og2saoevng7e
+  test2:
+    type: string
+    x-stoplight:
+      id: 4ubdsutqxxot2
+x-tags:
+  - task1
+description: model12
